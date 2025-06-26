@@ -1,4 +1,5 @@
-Python
 streamlit
-csv files
-zip file
+pandas
+plotly
+openpyxl
+xlsxwriter
